@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/cplog/cplog.github.io.git
